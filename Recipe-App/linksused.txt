@@ -1,0 +1,6 @@
+/* 
+https://www.themealdb.com/api.php
+https://cssgradient.io/gradient-backgrounds/
+https://fontawesome.com/v5.15/
+https://js.devexpress.com/Documentation/Guide/UI_Components/TextBox/Limit_the_String_Length/#:~:text=Limit%20the%20String%20Length.%20To%20limit%20the%20string,JavaScript.%20%24%28function%28%29%20%7B.%20%24%28%22%23textBoxContainer%22%29.dxTextBox%28%20%7B.%20maxLength%3A%2010.%20%7D%29%3B
+ */
